@@ -1,4 +1,4 @@
-# Huffman coding
+# Huffman coding [![Build Status](https://travis-ci.org/psurkov/Huffman-Coding.svg?branch=master)](https://travis-ci.org/psurkov/Huffman-Coding)
 
 The program is a console archiver which uses [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding). The application is developed in OOP style. The classes «tree», «vertex tree» and «archiver» (the class incapsulating
 compression and decompression) are clearly distinguished. The tests are implemented using [doctest](https://github.com/onqtam/doctest).
